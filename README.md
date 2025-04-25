@@ -3,7 +3,7 @@
 # Brain Tumor Detection System 🧠
 
 ## Project Description
-A web-based application that uses deep learning to detect brain tumors from MRI scans. The system classifies into four categories: glioma, meningioma, pituitary, and no tumor.
+A web-based application that uses deep learning to detect brain tumors from MRI scans. The system classifies into four categories: glioma, meningioma, pituitary, and no tumor. And based on classification AI analyse and give real time updates based on alaysis report ....
 
 ## Features ✨
 - **Instant Analysis**: Immediate results upon MRI scan upload
@@ -13,17 +13,22 @@ A web-based application that uses deep learning to detect brain tumors from MRI 
 - **Reliable Results**: Confidence score with each prediction
 
 ## Tech Stack 🛠️
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript,react
 - **Backend**: Flask (Python)
 - **Deep Learning**: TensorFlow
 - **Image Processing**: PIL, NumPy
 - **Deployment**: Render
+-**generative ai**:gemini
 
 ## Installation & Setup 🚀
 
 ### Requirements
 ```bash
 pip install -r requirements.txt
+plese ensure you have node js and flask installed in your pc
+plese install vite for smooth running on react components 
+to run your backend :py app.py
+to run your frontend :npm run dev;
 ```
 
 ### requirements.txt
@@ -72,9 +77,9 @@ This application is hosted on Render. For deployment:
 - Start Command: `gunicorn app:app`
 
 ## Developer 👨‍💻
-**Arsalan Khan**
-- [LinkedIn](https://www.linkedin.com/in/arsalan-khann)
-- [GitHub](https://github.com/arsalannkhann)
+**Anandu Suresh**
+- [LinkedIn](https://www.linkedin.com/in/anandu-suresh-1ba561213)
+- [GitHub](https://https://github.com/Anandu0603)
 
 ## License 📝
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -92,6 +97,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Special thanks to the medical imaging community for providing datasets
 - Inspired by the need for accessible medical diagnostic tools
 
-## Support 📧
-For support, email arsalankhangenai@gmail.com or create an issue in the repository.
+
+
+## Screenshots
+![Screenshot (84)](https://github.com/user-attachments/assets/dfd75714-ba17-482c-9113-70e33e3b03ae)
+![Screenshot (77)](https://github.com/user-attachments/assets/5b70a124-e696-4cc7-a95b-a161b338e592)
+![Screenshot (72)](https://github.com/user-attachments/assets/24d1e9c2-ca12-4e9a-8910-ca7ab7e0ab2a)
+![Screenshot (69)](https://github.com/user-attachments/assets/aac4c012-cf8a-4584-b75f-24bee8adc8c8)
+
+
 
